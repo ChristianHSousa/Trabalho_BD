@@ -22,8 +22,8 @@ Após a realização da compra é exercido uma serie de perguntas que são respo
     Você recomendaria este produto para um amigo.
 *Concordo Muito* - *Concordo* - *Não concordo nem Discordo* - *Discordo* - *Discordo totalmente*
 #
-    O pedido foi entregue no prazo informado pela loja
-*Concordo Muito* - *Concordo* - *Não concordo nem Discordo* - *Discordo* - *Discordo totalmente*
+    Qual a sua satisfação em relação a entrega do pedido?
+*Muito Satisfeito* - *Satisfeito* - *Neutro* - *Insatisfeito* - *Muito Insatisfeito*
 #
     Com que frequência você visita a nossa loja?
 *Muito frequentemente* - *Frequentemente* - *Eventualmente* - *Raramente* - *Nunca*
