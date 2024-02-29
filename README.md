@@ -11,22 +11,22 @@ Após a realização da compra é exercido uma serie de perguntas que são respo
 ###### Perguntas:
 
     Qual a sua opinião com a relação ao atendimento do suporte?
-*Muito Satisfeito* - *Satisfeito* - *Neutro* - *Insatisfeito* - *Muito Insatisfeito*
+    *Muito Satisfeito* - *Satisfeito* - *Neutro* - *Insatisfeito* - *Muito Insatisfeito*
 
     Expresse o seu nivel de satisfação com este produto.
-*Muito Satisfeito* - *Satisfeito* - *Neutro* - *Insatisfeito* - *Muito Insatisfeito*
+    *Muito Satisfeito* - *Satisfeito* - *Neutro* - *Insatisfeito* - *Muito Insatisfeito*
 
     Você recomendaria a nossa loja para um amigo.
-*Concordo Muito* - *Concordo* - *Não concordo nem Discordo* - *Discordo* - *Discordo totalmente*
+    *Concordo Muito* - *Concordo* - *Não concordo nem Discordo* - *Discordo* - *Discordo totalmente*
 
     Você recomendaria este produto para um amigo.
-*Concordo Muito* - *Concordo* - *Não concordo nem Discordo* - *Discordo* - *Discordo totalmente*
+    *Concordo Muito* - *Concordo* - *Não concordo nem Discordo* - *Discordo* - *Discordo totalmente*
 
     O pedido foi entregue no prazo informado pela loja
-*Concordo Muito* - *Concordo* - *Não concordo nem Discordo* - *Discordo* - *Discordo totalmente*
+    *Concordo Muito* - *Concordo* - *Não concordo nem Discordo* - *Discordo* - *Discordo totalmente*
 
     Com que frequência você visita a nossa loja?
-*Muito frequentemente* - *Frequentemente* - *Eventualmente* - *Raramente* - *Nunca*
+    *Muito frequentemente* - *Frequentemente* - *Eventualmente* - *Raramente* - *Nunca*
 
     Qual a sua satisfação em relação a credibilidade/confiança da nossa loja
-*Muito Satisfeito* - *Satisfeito* - *Neutro* - *Insatisfeito* - *Muito Insatisfeito*
+    *Muito Satisfeito* - *Satisfeito* - *Neutro* - *Insatisfeito* - *Muito Insatisfeito*
